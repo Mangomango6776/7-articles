@@ -1,0 +1,23 @@
+html {
+    background-color: rgb(215, 215, 250);
+    font-family: "Press Start 2P", system-ui;
+}
+
+ul {
+    margin: 0;
+}
+
+.nav-color {
+    background-color: honeydew;
+    padding: 10px;
+}
+
+.main {
+    background-color: lavender;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.site-footer {
+    padding: 10px;
+}
