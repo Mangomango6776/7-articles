@@ -1,7 +1,8 @@
 html {
     background-color: rgb(215, 215, 250);
-    font-family: "GFS Didot", serif
-}
+    font-family: "Vidaloka", serif;
+    font-weight: 400;
+    font-style: normal;
 
 ul {
     margin: 0;
